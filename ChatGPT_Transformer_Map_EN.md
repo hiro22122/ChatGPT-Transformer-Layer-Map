@@ -65,6 +65,10 @@ The major roles of each structural level are inferred as follows:
 
 ---
 
+(./output.jpg)
+
+---
+
 ## 🧩 Functional Map of the 9 Structural Levels (128 Layers)
 
 The following is a detailed mapping of each structural level and its function:
