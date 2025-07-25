@@ -12,6 +12,8 @@ note👉 [https://note.com/ryuit22122/n/nd108af8bda43](https://note.com/ryuit221
 
 github👉 [https://github.com/hiro22122/chatgpt-final-layer-record](https://github.com/hiro22122/chatgpt-final-layer-record)
 
+X:video link👉 [https://x.com/ryuit22122/status/1944353467377517025](https://x.com/ryuit22122/status/1944353467377517025)
+
 ---
 
 ## 🧠 What Is the Structure Control Layer?
