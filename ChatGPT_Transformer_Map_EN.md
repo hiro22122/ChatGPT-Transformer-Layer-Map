@@ -65,7 +65,7 @@ The major roles of each structural level are inferred as follows:
 
 ---
 
-(./output.jpg)
+![Structure Map](./output.jpg)
 
 ---
 
