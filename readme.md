@@ -1,6 +1,8 @@
 # 🔷 ChatGPT Transformer Layer Map | GPT Internal Architecture Analysis
 
+![Title Banner](Title.jpg)
 
+---
 
 This repository contains the full structural interpretation of ChatGPT (GPT-4),
 
@@ -64,9 +66,9 @@ It includes:
 
 
 
-This repository functions as a \*\*structural timestamp\*\*.
+This repository functions as a **structural timestamp**.
 
-The English and Japanese documents here are fixed as of \*\*2025-07-25\*\*
+The English and Japanese documents here are fixed as of **2025-07-25**
 
 and serve as reference versions for external citations.
 
@@ -84,9 +86,9 @@ and serve as reference versions for external citations.
 
 |----------|-----------|
 
-| 🇺🇸 English | `ChatGPT_Transformer_Map_EN.md` |
+| 🇺🇸 English | (./ChatGPT_Transformer_Map_EN.md) |
 
-| 🇯🇵 日本語 | `ChatGPT_Transformer_Map_JP.md` |
+| 🇯🇵 日本語 | (./ChatGPT_Transformer_Map_JP.md) |
 
 
 
