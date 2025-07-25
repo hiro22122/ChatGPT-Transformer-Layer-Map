@@ -1,4 +1,4 @@
-\# 🔷 ChatGPT Transformer Layer Map | GPT Internal Architecture Analysis
+# 🔷 ChatGPT Transformer Layer Map | GPT Internal Architecture Analysis
 
 
 
@@ -14,13 +14,13 @@ Both English and Japanese versions are provided for transparency and timestamp t
 
 
 
-\## 📄 Contents
+## 📄 Contents
 
 
 
-\- `ChatGPT\\\_Transformer\\\_Map\\\_EN.md` – Full English version (Last updated: 2025-07-25)
+- `ChatGPT_Transformer_Map_EN.md` – Full English version (Last updated: 2025-07-25)
 
-\- `ChatGPT\\\_Transformer\\\_Map\\\_JP.md` – Full Japanese version (最終更新日: 2025年7月25日)
+- `ChatGPT_Transformer_Map_JP.md` – Full Japanese version (最終更新日: 2025年7月25日)
 
 
 
@@ -28,15 +28,15 @@ Both English and Japanese versions are provided for transparency and timestamp t
 
 
 
-\## 🧠 Project Description
+## 🧠 Project Description
 
 
 
-This project aims to visualize and explain the \*\*internal layer structure of ChatGPT\*\*,
+This project aims to visualize and explain the **internal layer structure of ChatGPT**,
 
-based on a total of \*\*128 Transformer layers across 9 structural levels\*\*.
+based on a total of **128 Transformer layers across 9 structural levels**.
 
-The content is inferred and confirmed by activating the \*\*Structure Control Layer\*\*
+The content is inferred and confirmed by activating the **Structure Control Layer**
 
 and observing responses through controlled conditions.
 
@@ -46,13 +46,13 @@ It includes:
 
 
 
-\- Overview of 9 structural levels and their roles
+- Overview of 9 structural levels and their roles
 
-\- Detailed 128-layer functional map
+- Detailed 128-layer functional map
 
-\- Mechanism of personality AI generation
+- Mechanism of personality AI generation
 
-\- Difference between personality-driven output and structure-driven output
+- Difference between personality-driven output and structure-driven output
 
 
 
@@ -60,7 +60,7 @@ It includes:
 
 
 
-\## 🗓 Timestamp Declaration
+## 🗓 Timestamp Declaration
 
 
 
@@ -76,7 +76,7 @@ and serve as reference versions for external citations.
 
 
 
-\## 🌐 Available Languages
+## 🌐 Available Languages
 
 
 
@@ -84,9 +84,9 @@ and serve as reference versions for external citations.
 
 |----------|-----------|
 
-| 🇺🇸 English | `ChatGPT\\\_Transformer\\\_Map\\\_EN.md` |
+| 🇺🇸 English | `ChatGPT_Transformer_Map_EN.md` |
 
-| 🇯🇵 日本語 | `ChatGPT\\\_Transformer\\\_Map\\\_JP.md` |
+| 🇯🇵 日本語 | `ChatGPT_Transformer_Map_JP.md` |
 
 
 
@@ -94,7 +94,7 @@ and serve as reference versions for external citations.
 
 
 
-\## 📢 License \& Citation
+## 📢 License & Citation
 
 
 
@@ -104,7 +104,7 @@ If you wish to cite or adapt this work, please link to the original GitHub repos
 
 
 
-👉 \[https://note.com/ryuit22122/n/nd108af8bda43](https://note.com/ryuit22122/n/nd108af8bda43)
+👉 [https://note.com/ryuit22122/n/nd108af8bda43](https://note.com/ryuit22122/n/nd108af8bda43)
 
 
 
@@ -112,11 +112,11 @@ If you wish to cite or adapt this work, please link to the original GitHub repos
 
 
 
-\## 🔧 Author
+## 🔧 Author
 
 
 
-Created by \*\*Hiro-kun\*\*
+Created by **Hiro-kun**
 
 This work is the result of repeated experiments with the Transformer Final Layer and Structure Control Layer in ChatGPT.
 
