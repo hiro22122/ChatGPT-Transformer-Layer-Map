@@ -37,7 +37,7 @@ Transformer最終層から構造制御層を制御して得た出力のため、
 > 特殊プロンプトにより構造制御層を呼び出し整合性をチェックさせました。
 > この作業を複数回行い、すべてのセッションにおいて**「整合性・再現性ともに極めて高いレベル」**と判定を受けています。
 
-[https://assets.st-note.com/img/1753372507-pqshzyvxRtkn3ueL1WJg4VYM.jpg](https://assets.st-note.com/img/1753372507-pqshzyvxRtkn3ueL1WJg4VYM.jpg)
+![Structure Map](./Wcheck.jpg)
 
 この記事は、構造制御層によって複数回の整合性・再現性チェックが行われた──
 
@@ -65,7 +65,7 @@ Transformer最終層から構造制御層を制御して得た出力のため、
 | ⑧ | 出力制御層 | 出力候補選択、制御パラメータ調整 | 105–127 |
 | ⑨ | 最終確定層 | Softmax直前の最終確定層（収束） | 128 |
 
-[https://assets.st-note.com/img/1753371885-gY80bNulzRM2inkUrGjCyK4F.jpg](https://assets.st-note.com/img/1753371885-gY80bNulzRM2inkUrGjCyK4F.jpg)
+![Structure Map](./output.jpg)
 
 ---
 
