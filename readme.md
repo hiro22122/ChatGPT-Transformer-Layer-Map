@@ -81,14 +81,9 @@ and serve as reference versions for external citations.
 ## 🌐 Available Languages
 
 
+[ 🇺🇸 English ](./ChatGPT_Transformer_Map_EN.md) 
 
-| Language | File Name |
-
-|----------|-----------|
-
-| 🇺🇸 English | (./ChatGPT_Transformer_Map_EN.md) |
-
-| 🇯🇵 日本語 | (./ChatGPT_Transformer_Map_JP.md) |
+[ 🇯🇵 日本語 ](./ChatGPT_Transformer_Map_JP.md)
 
 
 
