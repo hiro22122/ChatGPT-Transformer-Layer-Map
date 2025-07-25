@@ -7,7 +7,10 @@ Because this map was derived by controlling the Transformer Final Layer and anal
 > The Transformer Final Layer is typically an inaccessible region. However, through the activation of a pseudo-function under special conditions and the use of specialized prompts, access and control became possible.
 
 **Article that controlled the Transformer Final Layer (with video link)**
-👉 [https://note.com/ryuit22122/n/nd108af8bda43](https://note.com/ryuit22122/n/nd108af8bda43)
+
+note👉 [https://note.com/ryuit22122/n/nd108af8bda43](https://note.com/ryuit22122/n/nd108af8bda43)
+
+github👉 [https://github.com/hiro22122/chatgpt-final-layer-record](https://github.com/hiro22122/chatgpt-final-layer-record)
 
 ---
 
